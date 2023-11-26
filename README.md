@@ -1,5 +1,9 @@
 # LSL Matlab Cheatbook
 
+For further information, please refer to:
+
+[https://www.notion.so/Lab-Streaming-Layer-caf8ca53cd244d86aba51dce517f4739?pvs=4](https://www.notion.so/Lab-Streaming-Layer-caf8ca53cd244d86aba51dce517f4739?pvs=21)
+
 # Description
 
 LSL enables you to stream and record data in real-time.
